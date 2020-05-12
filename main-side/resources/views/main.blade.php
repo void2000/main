@@ -162,7 +162,7 @@
                             <div class="center-0-478">
                                 <a class="button medium hover-dark tp-button gray smooth-scroll" href="#c1">XEM
                                     THÊM</a><a class="button medium hover-dark tp-button gray ml-20"
-                                    href="">LIÊN HỆ</a>
+                                    href="/form1  ">LIÊN HỆ</a>
                             </div>
 
                         </div>
