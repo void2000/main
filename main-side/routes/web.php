@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('main');
+
+Route::group(['prefix' => '/'], function() {
+    Route::get('/', 'MainController@main')->name();
+    Route::get('form1', 'MainController@form1');
 });
+
